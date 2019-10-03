@@ -25,5 +25,5 @@ logistic-regression.ipynb
 Logistic Regression Algorithm
 
 ## Sources
-[GeeksforGeeks](https://www.geeksforgeeks.org/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/)  
 [The Math of Intelligence - Siraj Rival](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
