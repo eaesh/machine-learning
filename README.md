@@ -32,12 +32,17 @@ Creates a Bag of Words representation of text document features to use for Naive
 ```
 simple-neural-network.ipynb
 ```
-Simple 2-layer neural network using a Sigmoid activation function
+Simple 2-layer neural network using a Sigmoid activation function. Built from scratch
 
 ```
 radial-basis-function-network.ipynb
 ```
-Radial Basis Function Neural Network Model
+Radial Basis Function Neural Network Model. Built from scratch
+
+```
+multi-layer-perceptron.ipynb
+```
+Multi-layer Perceptron Neural Network, built from scratch
 
 ## Sources
 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
@@ -45,3 +50,4 @@ Radial Basis Function Neural Network Model
 [The Math of Intelligence - Siraj Rival](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 [Simple Neural Network](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 [Radial Basis Function](https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/)
+[Multi-layer Perceptron](https://towardsdatascience.com/building-nerual-network-from-scratch-9c88535bf8e9)
