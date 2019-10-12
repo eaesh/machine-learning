@@ -44,6 +44,11 @@ multi-layer-perceptron.ipynb
 ```
 Multi-layer Perceptron Neural Network, built from scratch
 
+```
+sklearn-mlp.ipynb
+```
+Multi-layer Perceptron Classifier and Regressor using SKLearn
+
 ## Sources
 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 [Scikit Learn](https://www.scikit-learn.org/)
