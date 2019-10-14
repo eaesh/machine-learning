@@ -47,12 +47,26 @@ Multi-layer Perceptron Neural Network, built from scratch
 ```
 sklearn-mlp.ipynb
 ```
-Multi-layer Perceptron Classifier and Regressor using SKLearn
+Multi-layer Perceptron Classifier using Scikit-Learn
+
+```
+mlp-classifier-weights-plot.ipynb
+```
+Multi-layer Perceptron classifier run on Mnist Digits data. Plots weights of trained model
+
+```
+partial-dependence-plots.ipynb
+```
+Multi-layer Perceptron Regressor and Gradient Boosting Regressor run on the California Housing dataset. Plots partial dependences between a set of target features
+
+```
+diabetes-prediction.ipynb
+```
+Assesses the best Multi-Layer Perceptron Regressor model configuration trained on the diabetes dataset
 
 ## Sources
 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 [Scikit Learn](https://www.scikit-learn.org/)
+[Towards Data Science - Medium](https://towardsdatascience.com/)
 [The Math of Intelligence - Siraj Rival](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
-[Simple Neural Network](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 [Radial Basis Function](https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/)
-[Multi-layer Perceptron](https://towardsdatascience.com/building-nerual-network-from-scratch-9c88535bf8e9)
