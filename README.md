@@ -65,8 +65,12 @@ diabetes-prediction.ipynb
 Assesses the best Multi-Layer Perceptron Regressor model configuration trained on the diabetes dataset
 
 ## Sources
-[GeeksforGeeks](https://www.geeksforgeeks.org/)  
+[GeeksforGeeks](https://www.geeksforgeeks.org/)
+
 [Scikit Learn](https://www.scikit-learn.org/)
+
 [Towards Data Science - Medium](https://towardsdatascience.com/)
+
 [The Math of Intelligence - Siraj Rival](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
-[Radial Basis Function](https://pythonmachinelearning.pro/using-neural-networks-for-regression-radial-basis-function-networks/)
+
+[Python Machine Learning Pro](https://pythonmachinelearning.pro/)
