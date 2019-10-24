@@ -64,6 +64,11 @@ diabetes-prediction.ipynb
 ```
 Assesses the best Multi-Layer Perceptron Regressor model configuration trained on the diabetes dataset
 
+```
+random-forest-example.ipynb
+```
+Random Forest of Decision Trees using Scikit-Learn
+
 ## Sources
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
