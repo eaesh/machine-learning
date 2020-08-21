@@ -1,2 +1,3 @@
 
 image_classifier_flowers/checkpoint_ic_d161.pth
+*.pth
